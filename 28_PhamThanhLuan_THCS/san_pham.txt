@@ -1,0 +1,4 @@
+ID,Tên sản phẩm,Gía
+1,Laptop,3636
+2,Chuột máy tính,25
+3,Bàn phím, 75
